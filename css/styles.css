@@ -1,6 +1,11 @@
-h1 {
+h1, h3 {
   color: blue;
   text-align: center;
+  font-family: sans-serif;
+}
+
+p {
+
 }
 
 li {
@@ -13,8 +18,8 @@ img {
   width: 50%;
 }
 
-.main {
-
+.thumbs-up img {
+  width: 100%;
 }
 
 .sidebar {
